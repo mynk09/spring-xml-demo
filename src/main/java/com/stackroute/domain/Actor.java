@@ -26,6 +26,6 @@ public class Actor {
 
     @Override
     public String toString() {
-        return name+" "+ "is"+" " + gender+ " " + "and is"+" " + age + "years old.";
+        return name+" "+ "is"+" " + gender+ " " + "and is"+" " + age +" "+ "years old.";
     }
 }
