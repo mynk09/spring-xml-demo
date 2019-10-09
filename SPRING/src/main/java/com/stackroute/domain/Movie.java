@@ -8,7 +8,8 @@ public class Movie {
         this.actor = actor;
     }
 
-    public void role(){
-        System.out.println(this.actor);
+    public  String role(){
+        return String.valueOf(this.actor);
+
     }
 }
