@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="22e45b3f-6a39-49d1-a0bb-28d73024cc45" name="Default Changelist" comment="new xml commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/artifacts/SpringMVC_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/dictionaries/cgi.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/src/main/java/com/stackroute/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/src/main/java/com/stackroute/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC/src/main/webapp/welcome.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignmentj/DataMungerStep3_Boilerplate/DataMungerStep3_boilerplate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignmentj/pe2/pe2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignmentj/pe3/pe3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignmentj/pe4/pe4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignmentj/pe5/pe5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springannot/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springannot/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springannot/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springannot/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springannot/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springannot/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springannot/springannot.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BCG.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/domain/Actor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/domain/Actor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/domain/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/domain/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/bean.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bean.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bean.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bean.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stackroute/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/stackroute/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stackroute/domain/Actor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/stackroute/domain/Actor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stackroute/domain/Movie.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/stackroute/domain/Movie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment1.css" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignmentj/pe2/src/main/java/com/stackroute/EvenNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignmentj/pe2/src/main/java/com/stackroute/EvenNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignmentj/pe2/src/main/java/com/stackroute/MEMBER.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignmentj/pe2/src/main/java/com/stackroute/MEMBER.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignmentj/pe2/src/main/java/com/stackroute/fourpower.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignmentj/pe2/src/main/java/com/stackroute/fourpower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignmentj/pe2/src/main/java/com/stackroute/palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignmentj/pe2/src/main/java/com/stackroute/palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignmentj/pe2/src/main/java/com/stackroute/powerof4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignmentj/pe2/src/test/java/com/stackroute/EvenNumtest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignmentj/pe2/src/test/java/com/stackroute/EvenNumtest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignmentj/pe2/src/test/java/com/stackroute/MEMBERTEST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignmentj/pe2/src/test/java/com/stackroute/MEMBERTEST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignmentj/pe2/src/test/java/com/stackroute/fourpowertest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignmentj/pe2/src/test/java/com/stackroute/fourpowertest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignmentj/pe2/src/test/java/com/stackroute/palindrometest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignmentj/pe2/src/test/java/com/stackroute/palindrometest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignmentj/pe2/src/test/java/com/stackroute/powerof4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignmentj/pe3/src/main/java/com/stackroute/countryname.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignmentj/pe3/src/main/java/com/stackroute/countryname.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignmentj/pe3/src/main/java/com/stackroute/marks.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignmentj/pe3/src/main/java/com/stackroute/marks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignmentj/pe3/src/main/java/com/stackroute/matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignmentj/pe3/src/main/java/com/stackroute/matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignmentj/pe3/src/test/java/com/stackroute/Chessboardtest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignmentj/pe3/src/test/java/com/stackroute/Chessboardtest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignmentj/pe3/src/test/java/com/stackroute/ConsecutiveNumbersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignmentj/pe3/src/test/java/com/stackroute/ConsecutiveNumbersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignmentj/pe3/src/test/java/com/stackroute/countrynametest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignmentj/pe3/src/test/java/com/stackroute/countrynametest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignmentj/pe3/src/test/java/com/stackroute/markstest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignmentj/pe3/src/test/java/com/stackroute/markstest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignmentj/pe3/src/test/java/com/stackroute/matrixtest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignmentj/pe3/src/test/java/com/stackroute/matrixtest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignmentj/pe4/src/main/java/com/stackroute/character.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignmentj/pe4/src/main/java/com/stackroute/character.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignmentj/pe4/src/main/java/com/stackroute/dnf.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignmentj/pe4/src/main/java/com/stackroute/dnf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignmentj/pe4/src/main/java/com/stackroute/multipleoccur.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignmentj/pe4/src/main/java/com/stackroute/multipleoccur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignmentj/pe4/src/main/java/com/stackroute/setstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignmentj/pe4/src/main/java/com/stackroute/setstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignmentj/pe4/src/main/java/com/stackroute/transpose.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignmentj/pe4/src/main/java/com/stackroute/transpose.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignmentj/pe4/src/test/java/com/stackroute/dnftest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignmentj/pe4/src/test/java/com/stackroute/dnftest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignmentj/pe4/src/test/java/com/stackroute/multipleoccurtest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignmentj/pe4/src/test/java/com/stackroute/multipleoccurtest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignmentj/pe4/src/test/java/com/stackroute/transposetest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../assignmentj/pe4/src/test/java/com/stackroute/transposetest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bcg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bcg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bcg1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-xml-demo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-xml-demo/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-xml-demo/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-xml-demo/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-xml-demo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-xml-demo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-xml-demo/SPRING.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-xml-demo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-xml-demo/src/main/java/com/stackroute/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-xml-demo/src/main/java/com/stackroute/domain/Actor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-xml-demo/src/main/java/com/stackroute/domain/Movie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-xml-demo/src/main/resources/bean.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-xml-demo/src/test/java/com/stackroute/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-xml-demo/target/classes/bean.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-xml-demo/target/classes/com/stackroute/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-xml-demo/target/classes/com/stackroute/domain/Actor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-xml-demo/target/classes/com/stackroute/domain/Movie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-xml-demo/target/test-classes/com/stackroute/AppTest.class" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1REXPbCEyedaJ0b5IrvZFXoxmpv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.Main" />
+      <module name="SPRING" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Movie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.domain.Movie" />
+      <module name="SPRING" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Movie" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22e45b3f-6a39-49d1-a0bb-28d73024cc45" name="Default Changelist" comment="" />
+      <created>1569233206022</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569233206022</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
