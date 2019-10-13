@@ -9,6 +9,7 @@ import org.springframework.context.ApplicationContext;
 
 public class Movie {
 
+
     private Actor actor;
 
     public Movie(Actor actor) {
@@ -22,5 +23,6 @@ public class Movie {
     public void role(){
         System.out.println(this.actor);
     }
+
 
 }
